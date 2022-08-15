@@ -85,6 +85,7 @@ strong{
 .first-container{
     display: flex;
     justify-content: space-evenly;
+    margin-bottom: 100px;
 }
 .title{
     display: flex;
