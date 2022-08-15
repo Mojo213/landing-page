@@ -9,8 +9,6 @@ background-color: #1f2937;
 color: #f9faf8;
 flex:auto;
 min-width: fit-content;
-
-
 }
 
 .top{
@@ -86,6 +84,7 @@ strong{
 }
 .first-container{
     display: flex;
+    justify-content: space-evenly;
 }
 .title{
     display: flex;
@@ -95,6 +94,16 @@ strong{
     color:#1f2937;
 
 }
+
+.mountain{
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+    margin: 0%;
+}
+
 .image-subtext{
+  width: 200px;
+  
 
 }
