@@ -103,7 +103,12 @@ strong{
 }
 
 .image-subtext{
-  width: 200px;
-  
+  display:flex;
+    width: 200px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
 
+.subtext{
+    text-align: center;
 }
