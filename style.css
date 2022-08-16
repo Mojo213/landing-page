@@ -129,3 +129,46 @@ dt{
     display: flex;
     justify-content: end;
 }
+
+.third-container{
+    display:flex;
+    justify-content: center;
+}
+
+h3.signup-text{
+    margin-top:40px;
+    margin-left: 70px;
+    margin-bottom: 0%;
+}
+
+p.signup-text{
+    margin-left: 70px;
+    margin-top: 0%;
+    margin-bottom: 40px;
+}
+
+.signup-text{
+    color:#f9faf8;
+    
+}
+
+.sign-up{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #3882f6;
+    min-width:800px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    border-radius: 7px;
+}
+
+.sign-button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 50px;
+}
+
+button.l-button{
+    outline: solid#f9faf8;
+}
