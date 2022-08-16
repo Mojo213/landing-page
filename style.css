@@ -137,14 +137,15 @@ dt{
 
 h3.signup-text{
     margin-top:40px;
-    margin-left: 70px;
+    margin-left: 90px;
     margin-bottom: 0%;
 }
 
 p.signup-text{
-    margin-left: 70px;
+    margin-left: 90px;
     margin-top: 0%;
     margin-bottom: 40px;
+    font-size: 15px;
 }
 
 .signup-text{
@@ -172,3 +173,15 @@ p.signup-text{
 button.l-button{
     outline: solid#f9faf8;
 }
+
+.footer{
+    display:flex;
+    background-color: #1f2937;
+    color: #e5e7eb;
+    justify-content: center;
+}
+ p.footer-p{
+    font-size: small;
+    margin-top: 30px;
+    margin-bottom: 30px;
+ }
